@@ -1,1 +1,5 @@
 010110
+
+print "Hallo!"
+
+remote 
